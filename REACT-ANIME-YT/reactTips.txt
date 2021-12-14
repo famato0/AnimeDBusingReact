@@ -1,0 +1,11 @@
+0.1) per vedere la versione di node e react node -v / npm -v
+1) dopo aver creato il progetto con 
+ 	*npx create-react-app nomeapp
+   fai
+	*cd nomeap
+	*npm start "per avviare il progetto" e ti apre l'index
+2) per creaer in automatico la pagina iniziale scrivi
+	*rfce e primi invio
+
+
+//vedi arrow function a che serve
